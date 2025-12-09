@@ -1,4 +1,4 @@
-# Key
+# KEY
 
 1612 9750
 7293 6689
@@ -11,7 +11,7 @@
 3437 1760
 6259 3696
 
-# wallet
+# WLLT
 
 1-carpet
 2-horror
@@ -26,7 +26,7 @@
 11-wash
 12-used
 
-# Wasabi
+# WSB
 
 1-brave
 2-catalog
