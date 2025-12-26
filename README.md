@@ -44,3 +44,6 @@
 # NFS 2012
 https://gofile.io/d/vSaX7o
 
+# GTA DAY
+https://www.gtaday.com/r.php
+
